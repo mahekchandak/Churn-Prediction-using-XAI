@@ -23,3 +23,6 @@ To execute the churn_prediction_models.ipynb notebook or the prepare_clients_dat
 
 ## Contributions 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
