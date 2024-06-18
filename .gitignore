@@ -1,0 +1,32 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# macOS specific files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Data files
+data/
+
+# Saved model files
+*.pkl
+explainer.pkl
+
+# Output directories
+stats/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
